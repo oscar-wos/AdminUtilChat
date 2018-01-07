@@ -18,6 +18,11 @@ Pawn 1.8 - build 6040
 
 * **Oscar Wos** - *Whole Project* - [AlliedModders](https://forums.alliedmods.net/member.php?u=261698) | [GitHub](https://github.com/OSCAR-WOS)
 
+## Translators
+
+* **Rodya** - *Russian* - [AlliedModders](https://forums.alliedmods.net/member.php?u=278697)
+* **Jezis** - *Czech* - [AlliedModders](https://forums.alliedmods.net/member.php?u=272258)
+
 ## License
 
 This project is licensed under the GPL V3 License - see the [LICENSE](LICENSE) file for details

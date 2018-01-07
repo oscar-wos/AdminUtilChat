@@ -1,0 +1,12 @@
+"Phrases"
+{
+	"Team"
+	{
+		"cze"			"Tym"
+	}
+
+	"Dead"
+	{
+		"cze"			"Mrtvy"
+	}
+}
